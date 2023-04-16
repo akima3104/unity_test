@@ -1,0 +1,5 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"newNode","annotation":"WriteResponseFile artifacts/rsp/2499636930026837580.rsp","index":1}
+{"msg":"noderesult","annotation":"WriteResponseFile artifacts/rsp/2499636930026837580.rsp","index":1,"exitcode":0}
+{"msg":"newNode","annotation":"Il2Cpp C:/Users/akima/OneDrive/ドキュ~1/unity/BILLIA~1/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2}
+{"msg":"noderesult","annotation":"Il2Cpp C:/Users/akima/OneDrive/ドキュ~1/unity/BILLIA~1/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2,"exitcode":1,"stdout":"Failed to create output directory for targetfile C:\\Users\\akima\\OneDrive\\ドキュ~1\\unity\\BILLIA~1\\Library\\Il2cppBuildCache\\WebGL\\Native\\build.bc as part of preparing to actually running this node"}
